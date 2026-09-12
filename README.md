@@ -54,13 +54,4 @@ This project focuses on analyzing sales and operational data from **Blinkit** �
 3. Open the `.pbix` file using **Power BI Desktop**.
 
 ---
-
-## 📬 Contact
-
-Feel free to connect with me for questions or collaborations.
-
-**Manpreet Kaur**   
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/manpreet-kaur-52b805329/)  
-
-
-
+ 
